@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lily!
-- 🌱 I’m currently learning Front End Development.  
-- 👀 I'm really good at HTML/CSS and I can't wait to learn JavaScript.
+- 🌱 Front End Development is my jam!  
+- 👀 I'm good at HTML/CSS and building responsive websites.  
 - 💞️ I’m interested in fun projects, especially in health & wellness, food, and travel.
 
 
