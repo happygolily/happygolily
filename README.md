@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Lily!
-- 🌱 Front End Development is my jam!  
-- 👀 Skilled at HTML/CSS and responsive websites.  
-- 💞️ I’m interested in fun projects, especially in health & wellness, food, and travel.
+- 💞️ I’m interested in fun projects involving wellness, food, and travel.
 
 
 <!---
@@ -14,4 +12,6 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 - 💞️ I’m looking to collaborate on ...
 - 💞️ I’m interested in ...
+- 🌱 Front End Development is my jam!  
+- 👀 Skilled at HTML/CSS and responsive websites.  
 --->
